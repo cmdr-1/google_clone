@@ -14,18 +14,20 @@ input {
 
 .btn {
     margin: 30px;
-    width: 12%;
+    min-width:12%
 }
 
 .form-control{
     display: inline-block;
     border-radius: 24px;
     width: 50%;
+    min-width: 400px;
 }
 
 #logo img {
     padding-bottom: 30px;
     max-width: 25%;
+    min-width: 200px;
 }
 
 #search {

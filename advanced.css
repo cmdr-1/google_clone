@@ -21,9 +21,11 @@ p {
     margin: 20px;
 }
 
-.form-control{
+.form-control {
     display: inline-block;
     width: 50%;
+    min-width: 470px;
+    margin-left: 10px;
 }
 
 .col-sm-2 {
@@ -33,6 +35,7 @@ p {
 
 #logo img {
     max-width: 8%;
+    min-width: 100px;
 }
 
 #search {

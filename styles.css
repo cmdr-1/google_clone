@@ -1,0 +1,40 @@
+body {
+    margin: 20px;
+    text-align: center;
+}
+
+a {
+    padding: 10px;
+}
+
+input {
+    display:flex;
+   
+}
+
+.btn {
+    margin: 30px;
+    width: 12%;
+}
+
+.form-control{
+    display: inline-block;
+    border-radius: 24px;
+    width: 50%;
+}
+
+#logo img {
+    padding-bottom: 30px;
+    max-width: 25%;
+}
+
+#search {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#feelingLucky {
+    margin-left: -5px;
+}
